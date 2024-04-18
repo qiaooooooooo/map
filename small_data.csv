@@ -1,3 +1,4 @@
+name,alt_name,orig_name,state,county1,county2,county3,orig_county,established,discontinued,continuous,stamp_index,id,coordinates,duration,gnis_match,gnis_name,gnis_county,gnis_state,gnis_feature_id,gnis_feature_class,gnis_orig_name,gnis_orig_county,gnis_latitude,gnis_longitude,gnis_elev_in_m,gnis_dist,latitude,longitude
 BENTON,NA,BENTON,NH,GRAFTON,NA,NA,Grafton,1843,1917,TRUE,4,4360,TRUE,74,TRUE,BENTON,GRAFTON,NH,871489,Populated Place,Benton,Grafton,44.1031205,-71.9017538,390,1,44.1031205,-71.9017538
 MC CUNES STATION,MCCUNES STATION,MC CUNES STATION,MO,PIKE,NA,NA,Pike,1879,1920,TRUE,3,36145,TRUE,41,TRUE,MCCUNE STATION,PIKE,MO,741050,Populated Place,McCune Station,Pike,39.4056005,-91.2459786,200,0.875,39.4056005,-91.2459786
 GOLDBUTTE,NA,GOLDBUTTE,MT,TOOLE,NA,NA,Toole,1895,1945,TRUE,2,139083,TRUE,50,TRUE,GOLDBUTTE,TOOLE,MT,1750016,Post Office,Goldbutte Post Office (historical),Toole,48.87362,-111.3858,1408,1,48.87362,-111.3858
